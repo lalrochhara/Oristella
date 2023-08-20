@@ -22,3 +22,4 @@ Pillow>=4.2.0
 requests
 Cython==3.0.0
 setuptools
+psycopg2
