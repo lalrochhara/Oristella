@@ -1,9 +1,9 @@
-<h1>A Powerful, Smart Telegram Group Manager Bot- Max Robot</h1>
+<h1>A Powerful, Smart Telegram Group Manager Oristella</h1>
 
 A Special Group manager Bot to help you to protect and manage your Groups
 
 
-<p align="left"><a href="https://t.me/OristellaSupport"><img src="https://telegra.ph/file/db10328cdc57c10414df7.jpg" width="400" ></a></p>
+<p align="left"><a href="https://t.me/OristellaSupport"><img src="https://i.ibb.co/yRkQVnm/203605945-beautiful-girl-with-long-hair-in-fairy-forest-3d-rendering.jpg" width="400" ></a></p>
 <p align="left"> <br>
     <img src="https://img.shields.io/github/license/lalrochhara/Oristella?style=for-the-badge&logo=appveyor" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/lalrochhara/Oristella?style=for-the-badge&logo=appveyor" alt="Contributors">
@@ -17,7 +17,7 @@ A Special Group manager Bot to help you to protect and manage your Groups
 
 <h3> Repo Stats </h3>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=maxsupun&repo=Oristella&theme=light)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=lalrochhara&repo=Oristella&theme=light)
 
 <a href="https://github.com/lalrochhara"><img src="https://img.shields.io/github/stars/lalrochhara/Oristella?style=social"></a>
 <a href="https://github.com/lalrochhara"><img src="https://img.shields.io/github/forks/lalrochhara/Oristella?style=social"></a>
