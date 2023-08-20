@@ -20,4 +20,5 @@ pyrogram==1.4.16
 pyyaml==5.4
 Pillow>=4.2.0
 requests
-
+Cython==3.0.0
+setuptools
