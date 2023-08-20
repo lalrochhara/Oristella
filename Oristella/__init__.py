@@ -18,18 +18,18 @@ time = datetime.now(IST)
 date = time.strftime("%a/%d/%b/%Y %H:%M:%S")
 
 
-SUDOERS = SUDO_USERS_ID
-LOG_GROUP_ID = LOG_GROUP_ID
+SUDOERS = 1060318977
+LOG_GROUP_ID = -972541040
 MOD_LOAD = []
 MOD_NOLOAD = []
 bot_start_time = time.time()
 DB_URI = BASE_DB 
 MONGO_URL = MONGO_URL
-OWNER_ID = SUDO_USERS_ID
+OWNER_ID = 6161727895
 
 
 myclient = pymongo.MongoClient(DB_URI)
-dbn = myclient["supun"]
+dbn = myclient["oristella"]
 
 mongo_client = AsyncIOMotorClient(MONGO_URL)
 db = mongo_client.wbb
@@ -38,7 +38,7 @@ loop = asyncio.get_event_loop()
 aiohttpsession = ClientSession()
 arq = ARQ(ARQ_API_URL, ARQ_API_KEY, aiohttpsession)
 
-bot = Client("supun", bot_token=BOT_TOKEN, api_id=API_ID, api_hash=API_HASH)
+bot = Client("oristella", bot_token=BOT_TOKEN, api_id=API_ID, api_hash=API_HASH)
 bot.start()
 app = Client("app2", bot_token=BOT_TOKEN, api_id=API_ID1, api_hash=API_HASH1)
 app.start()
