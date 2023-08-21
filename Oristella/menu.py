@@ -20,9 +20,13 @@ keyboard =InlineKeyboardMarkup(
       InlineKeyboardButton(text="🇦🇪 عربي", callback_data="languages_ar")], 
      [InlineKeyboardButton(text="🇮🇳 മലയാളം", callback_data="languages_ml"),
            InlineKeyboardButton(text="🇲🇼 Chichewa", callback_data="languages_ny")],
-      [InlineKeyboardButton(text="🇮🇳 Mizo", callback_data="languages_lus")], 
-     [InlineKeyboardButton(text="🇩🇪 German", callback_data="languages_ge"), 
-      InlineKeyboardButton(text="🇷🇺 Russian", callback_data="languages_ru")], 
+      [InlineKeyboardButton(text="🇮🇳 Mizo", callback_data="languages_lus"), 
+     [InlineKeyboardButton(text="🇩🇪 German", callback_data="languages_ge")], 
+      InlineKeyboardButton(text="🇷🇺 Russian", callback_data="languages_ru"), 
+     [InlineKeyboardButton(text="🇮🇳 Hmar", callback_data="languages_hmr")],
+      [InlineKeyboardButton(text="🇮🇳 Lai", callback_data="languages_cnh"),
+     [InlineKeyboardButton(text="🇮🇳 Mara", callback_data="languages_mrh")],
+      [InlineKeyboardButton(text="🇮🇳 Thahdou/Kuki", callback_data="languages_tcz"),
      [InlineKeyboardButton("Back", callback_data='startcq')]])
 
 @app.on_callback_query(filters.regex("langus"))
