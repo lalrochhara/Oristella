@@ -1,0 +1,5 @@
+commit_message: "Crowdin: Update %language% translations"
+append_commit_message: false
+files:
+  - source: /lang/langs/en.yml
+    translation: /lang/langs/%locale_with_underscore%.yml
