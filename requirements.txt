@@ -6,7 +6,7 @@ pykeyboard
 python-arq
 requests
 python-dotenv
-regex!
+regex
 cachetools
 uvloop
 pytz
