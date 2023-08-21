@@ -11,14 +11,12 @@ cachetools
 uvloop
 pytz
 dateparser
-gpytranslate
 EmojiCaptcha
 captcha
-googletrans
-telegraph
 pyrogram
 pyyaml
 Pillow
 Cython
 setuptools
 psycopg2
+python3
